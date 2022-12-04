@@ -2,17 +2,17 @@ package com.line.comparison;
 
 import java.util.Scanner;
 
-public class  LineComparisonComputation  {
+public class CalculateTheLengthOfTheLine {
 
       //Default Constructor.
-        public  LineComparisonComputation  () {
+        public CalculateTheLengthOfTheLine() {
             System.out.println("Welcome to Line Comparison Computation Program");
         }
 
         public static void main(String[] args) {
 
             //Initialize the object.
-            LineComparisonComputation   line = new  LineComparisonComputation  ();
+            CalculateTheLengthOfTheLine line = new CalculateTheLengthOfTheLine();
 
             //Declaring the variables.
             Scanner scan = new Scanner(System.in);
